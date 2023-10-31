@@ -1,0 +1,8 @@
+run this project :
+
+in terminal:
+
+'npm start'
+
+localhost:3000
+
